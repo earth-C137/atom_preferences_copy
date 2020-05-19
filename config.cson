@@ -1,0 +1,15 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab"
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 21
+    preferredLineLength: 79
+    showInvisibles: true
+    softTabs: false
+    tabType: "soft"
+  "exception-reporting":
+    userId: "300eea0f-e74f-4fc0-a7a5-46728a271d67"
+  "one-dark-ui":
+    fontSize: 16
